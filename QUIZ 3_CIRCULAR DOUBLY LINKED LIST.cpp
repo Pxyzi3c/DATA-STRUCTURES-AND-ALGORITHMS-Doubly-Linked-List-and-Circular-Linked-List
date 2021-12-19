@@ -176,3 +176,12 @@ int main() {
     tail = deleteNode(tail, tail->prev->prev);
     reverse(tail);
 }
+
+/* OUPUT 
+
+Created Doubly Linked List is:
+	4 9 1 5 3 8
+After deleting a node in reverse order:
+	8 3 1 9 4
+
+*/
