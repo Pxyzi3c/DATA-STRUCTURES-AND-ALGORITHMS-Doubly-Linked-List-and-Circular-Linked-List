@@ -115,3 +115,12 @@ int main() {
 
     cout<<endl;
 }
+
+/*OUTPUT:
+
+Created Double Linked List is:
+  5 3 9 4 6 2
+Double Linked List after deletion:
+	5 3 4 6 2 
+
+*/
