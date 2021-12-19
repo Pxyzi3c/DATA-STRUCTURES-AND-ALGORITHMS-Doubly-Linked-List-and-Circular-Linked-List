@@ -182,3 +182,12 @@ int main() {
     cout << "Double Linked List after deletion in reverse order: \n\t";
     reverse(tail);
 }
+
+/* OUTPUT 
+
+Created Double Linked List is:
+		7 8 5 3 4 2
+Double Linked List after deletion in reverse order:
+		2 4 3 8 7
+
+*/
